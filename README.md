@@ -1,7 +1,5 @@
 # Jarno Maaniemi
 
-### Init
-
 ```markdown
 git init
 ```
