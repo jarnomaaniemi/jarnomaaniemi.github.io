@@ -1,6 +1,4 @@
-# jarnomaaniemi.github.io
-
-## Init
+### Init
 
 ```markdown
 git init
