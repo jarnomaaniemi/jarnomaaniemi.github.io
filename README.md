@@ -1,7 +1,7 @@
 # Skill set 
 \* Basics  
 ** Comfortable  
-*** Advanced    
+*\*\* Advanced    
 **** Independent  
 ***** Expert (Senior)
 
