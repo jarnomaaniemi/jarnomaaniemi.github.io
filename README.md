@@ -1,4 +1,4 @@
-# Jarno Maaniemi
+# Skill set 
 ## Competence
 - \* Basics
 - ** Comfortable
