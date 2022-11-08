@@ -1,5 +1,5 @@
 ## Competence
-- * Basics
+- \* Basics
 - ** Comfortable
 - *** Advanced
 - **** Independent 
