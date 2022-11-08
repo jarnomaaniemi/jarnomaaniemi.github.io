@@ -1,8 +1,8 @@
 # Skill set 
 \* Basics  
-** Comfortable  
-*\*\* Advanced    
-**** Independent  
+\*\* Comfortable  
+\*\*\* Advanced    
+\*\*\*\* Independent  
 ***** Expert (Senior)
 
 ## Programming languages
