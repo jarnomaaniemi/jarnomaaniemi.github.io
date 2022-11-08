@@ -1,10 +1,10 @@
 # Skill set 
 ## Competence
-- \* Basics
-- ** Comfortable
-- *** Advanced
-- **** Independent 
-- ***** Expert (Senior)
+\* Basics  
+** Comfortable  
+*** Advanced    
+**** Independent  
+***** Expert (Senior)
 
 ## Programming languages
 - Bash [*+...]
