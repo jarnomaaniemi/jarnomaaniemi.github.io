@@ -1,5 +1,4 @@
 # Skill set 
-## Competence
 \* Basics  
 ** Comfortable  
 *** Advanced    
