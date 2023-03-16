@@ -2,25 +2,25 @@
 \* Basics  
 \*\* Comfortable  
 \*\*\* Advanced    
-\*\*\*\* Independent  
-***** Expert (Senior)
+\*\*\*\* Experienced  
+\*\*\*\*\* Senior
 
 ## Programming languages
-- Bash [*+...]
-- CSS [**...]
 - HTML5 [**...]
+- CSS [**...]
 - JavaScript [**...]
-- PHP [*+...]
+- PHP [**...]
 - SQL [*....]
 - XML [*....]
+- Bash [**...]
 
 ## The tools of the trade
 - Bootstrap [*....]
-- Git [*+...]
-- GitHub [*....]
+- Git [**...]
+- GitHub [**...]
 - GitLab [*....]
 - Laravel [*....]
-- MariaDB [*....]
+- MySQL [*....]
 - Nginx [*....]
 - Node [*....]
 - SQLite [*....]
@@ -31,6 +31,7 @@
 - VS Code [**...]
 
 ## OS
+- Android [**...]
 - Linux [**...]
 - Windows [**...]
 
