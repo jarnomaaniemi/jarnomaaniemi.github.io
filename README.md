@@ -6,10 +6,10 @@
 \*\*\*\*\* Senior
 
 ## Programming languages
-- HTML5 [**...]
-- CSS [**...]
-- JavaScript [**...]
+- HTML5 [***..]
+- JavaScript [***..]
 - PHP [**...]
+- CSS [**...]
 - SQL [*....]
 - XML [*....]
 - Bash [*....]
