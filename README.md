@@ -16,9 +16,9 @@
 
 ## The tools of the trade
 - Git [**...]
-- GitHub [**...]
 - Laravel [**...]
 - Tailwind [**...]
+- GitHub [**...]
 - MySQL [*....]
 - Node [*....]
 - GitLab [*....]
