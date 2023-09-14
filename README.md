@@ -19,6 +19,8 @@
 - Laravel [**...]
 - Tailwind [**...]
 - GitHub [**...]
+- Docker [**...]
+- Vue [*....]
 - MySQL [*....]
 - Node [*....]
 - GitLab [*....]
