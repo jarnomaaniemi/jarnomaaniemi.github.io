@@ -1,4 +1,6 @@
-# Skill set 
+# Skills
+
+## Ratings
 ⭐ Basics  
 ⭐⭐ Comfortable  
 ⭐⭐⭐ Advanced    
