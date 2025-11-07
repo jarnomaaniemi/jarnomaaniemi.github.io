@@ -1,40 +1,39 @@
 # Skill set 
-\* Basics  
-\*\* Comfortable  
-\*\*\* Advanced    
-\*\*\*\* Experienced  
-\*\*\*\*\* Senior
+⭐ Basics  
+⭐⭐ Comfortable  
+⭐⭐⭐ Advanced    
+⭐⭐⭐⭐ Senior  
 
 ## Programming languages
-- HTML5 [***..]
-- JavaScript [***..]
-- PHP [**...]
-- CSS [**...]
-- SQL [*....]
-- XML [*....]
-- Bash [*....]
+- JavaScript ⭐⭐⭐
+- Python ⭐⭐⭐
+- PHP ⭐⭐⭐
+- HTML ⭐⭐
+- CSS ⭐⭐
+- SQL ⭐⭐
+- XML ⭐⭐
+- Bash ⭐⭐
+- PowerShell ⭐⭐
 
-## The tools of the trade
-- Git [**...]
-- Laravel [**...]
-- Tailwind [**...]
-- GitHub [**...]
-- Docker [**...]
-- Vue [*....]
-- MySQL [*....]
-- Node [*....]
-- GitLab [*....]
-- Nginx [*....]
-
-## Editors
-- VS Code [**...]
-- Neovim [*....]
+## Tools of the trade
+- VS Code ⭐⭐⭐
+- Laravel ⭐⭐
+- React ⭐⭐
+- MySQL ⭐⭐
+- Git ⭐⭐
+- GitHub ⭐⭐
+- GitLab ⭐⭐
+- Docker ⭐
+- Vue ⭐
+- Tailwind ⭐
+- Node ⭐
+- Nginx ⭐
 
 ## OS
-- Linux [**...]
-- Windows [**...]
-- Android [*....]
-- iOS [*....]
+- Windows ⭐⭐⭐
+- Linux ⭐⭐⭐
+- Android ⭐⭐
+- iOS ⭐
 
 <!-- For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/). -->
