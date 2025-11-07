@@ -8,6 +8,7 @@
 
 ## Programming languages
 - JavaScript ⭐⭐⭐
+    - [Example 1](https://jarnomaaniemi.github.io/ttv24ssnake/) [(Github)](https://github.com/jarnomaaniemi/ttv24ssnake)
 - Python ⭐⭐⭐
 - PHP ⭐⭐⭐
 - HTML ⭐⭐
